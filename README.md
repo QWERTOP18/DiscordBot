@@ -1,4 +1,4 @@
-# Discordボット（Mac discord.py）
+# DiscordBot
 
 このリポジトリは、Pythonライブラリ `discord.py` を使用して作成されたDiscordボットです。
 ## 特徴
