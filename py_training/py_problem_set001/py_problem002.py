@@ -3,3 +3,7 @@ def multiply(a, b=2):
 
 print(multiply(3))
 print(multiply(3, 5))
+"""||
+6
+15
+||"""
