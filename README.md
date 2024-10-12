@@ -15,7 +15,7 @@ pip3 install discord.py
 2. botの作成
 [Discord Developer Portal](https://discord.com/developers/applications/)から新しくbotを作成し、TOKENをknocker.pyのTOKEN変数に貼り付けます。
 
-3. botをactivenにする。
+3. botをactiveにする。
 ```
 python3 knocker.py
 ```
