@@ -1,6 +1,6 @@
-# DiscordBot
+# DiscordBot🤖
 
-このリポジトリは、Pythonライブラリ `discord.py` を使用して作成されたDiscordボットです。
+このリポジトリは、各言語の文法を確認するためのbotです。
 
 
 
