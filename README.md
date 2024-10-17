@@ -30,3 +30,6 @@ Discord内でBotがのactiveの時に`!knock`とメッセージを送信する�
 2: JavaScript
 3: その他
 ```
+
+## 解説
+[Python](https://spring-front-8d9.notion.site/PyObject-1215f53ba2a1809e9484ebd7a5b3e5ec)
